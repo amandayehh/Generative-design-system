@@ -1,0 +1,7 @@
+{
+  "name": "Generative design system",
+  "id": "826568374916814246",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
